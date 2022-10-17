@@ -1,2 +1,2 @@
-# mc donalds
+# Mc Donalds
  Meu Primeiro repositório
